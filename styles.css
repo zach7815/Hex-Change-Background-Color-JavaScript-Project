@@ -1,0 +1,24 @@
+.title {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  text-align: center;
+  font-family: 
+  font-family: 'Merriweather', serif;
+}
+
+.center * {
+  margin: 0;
+}
+
+.btn {
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  text-align: center;
+  width: 10rem;
+}
+
+.btn:hover {
+  border: 2px solid black;
+}
