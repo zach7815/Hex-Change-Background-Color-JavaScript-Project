@@ -1,6 +1,6 @@
 const button = document.querySelector(".btn");
 const title = document.querySelector(".title");
-var body = document.querySelector("body");
+const body = document.querySelector("body");
 
 
 function randomColor()  {
